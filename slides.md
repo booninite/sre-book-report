@@ -816,6 +816,7 @@ Summary
 - Data driven
 - Well defined role and responsibilities
 - Establishing service level objectives (SLO)
+- Easy to transfer between product development and SRE, or vise versa
 
 <br>
 <br>
