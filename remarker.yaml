@@ -1,0 +1,12 @@
+port: 6275
+dest: docs # for easy github pages publishing
+source: slides.md
+title: 'SRE Book Report'
+assets: ['assets']
+cssFiles: ['remark.css']
+script: ''
+scriptFiles: []
+remarkConfig:
+  highlightLines: true
+livereload: true
+livereloadPort: 35729
